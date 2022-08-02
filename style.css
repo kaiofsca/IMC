@@ -91,6 +91,7 @@ button:active {
     height: 100px;
     background: mediumslateblue;
     font: italic 1.0rem serif ;
+    font-size: 25px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px black;
     color: mediumspringgreen;
